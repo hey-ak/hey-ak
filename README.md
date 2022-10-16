@@ -1,5 +1,5 @@
 
-# Hey This is Akshay<img src="https://media.tenor.com/lUFliafCu_MAAAAC/hello.gif" height="30px" width="30px">
+# Hey This is Akshay<img src="https://media.tenor.com/lUFliafCu_MAAAAC/hello.gif" height="45px" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%2B%2B+Programmer;Web+Developer;I+Develop+Android+Apps;Love+To+Explore+New+Things+)](https://git.io/typing-svg)
 
