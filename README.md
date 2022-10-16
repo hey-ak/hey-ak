@@ -35,7 +35,7 @@
   <summary>⭐ GitHub Stats</summary>
   <br>
 
-  <img align="left" alt="1tsak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hey-ak&show_icons=true&hide_border=false&title_color=f5054d&icon_color=32a842&bg_color=cffaf8&text_color=000&border_color=0c1a25" />
+  <img align="left" alt="1tsak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hey-ak&show_icons=true&hide_border=false&title_color=f5054d&icon_color=32a842&bg_color=cffaf8&text_color=000&border_color=ffff" />
 
 [youtube]: https://youtube.com/AKBROS
 [instagram]: https://instagram.com/overlord.akshay
