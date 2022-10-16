@@ -12,6 +12,8 @@
 [![website](youtube-light.svg)](https://youtube.com/AKBROS#gh-light-mode-only)
 [![website](linkedin-light.svg)](https://www.linkedin.com/in/akshay-jha-a95486238/)
 [![website](instagram-light.svg)](https://www.instagram.com/overlord.akshay/)
+[![website](terminal-light.svg)](https://akshay-alpha.vercel.app/)
+
 
 
 **Languages and Tools:**  
