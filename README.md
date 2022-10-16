@@ -12,7 +12,7 @@
 [![website](youtube-light.svg)](https://youtube.com/AKBROS#gh-light-mode-only)
 [![website](linkedin-light.svg)](https://www.linkedin.com/in/akshay-jha-a95486238/)
 [![website](instagram-light.svg)](https://www.instagram.com/overlord.akshay/)
-[![website](online-resume.png)](https://akshay-alpha.vercel.app/)
+<a href="https://akshay-alpha.vercel.app/"><img height="24"  src="./online-resume.png"></a>
 
 
 
