@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=C%2B%2B+Programmer;Web+Developer;I+Develop+Android+Apps;Love+To+Explore+New+Things+)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Ios Development
 - 👯 Looking forward to Explore More
 - 🥅 2023 Goals: Learn DSA And Frontend Frameworks
 
