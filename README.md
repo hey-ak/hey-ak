@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Ios Development
 - 👯 Looking forward to Explore More
-- 🥅 2023 Goals: Learn DSA And Frontend Frameworks
+- 🥅 2024 Goals: Learn DSA And Ios Development
 
 ### Connect with me:
 
